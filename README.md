@@ -1,1 +1,0 @@
-# sm-tf-horovod
